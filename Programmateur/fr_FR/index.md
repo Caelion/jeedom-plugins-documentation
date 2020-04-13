@@ -1,3 +1,10 @@
+---
+layout: default
+title: Documentation Programmateur
+lang: fr_FR
+pluginId: Programmateur
+---
+
 Présentation 
 ===
 
