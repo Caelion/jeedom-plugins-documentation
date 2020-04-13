@@ -5,7 +5,7 @@ lang: fr_FR
 pluginId: Programmateur
 ---
 
-Programmateur - Changelog
+Changelog
 ===
 
 - Création du plugin
