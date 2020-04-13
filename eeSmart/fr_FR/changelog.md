@@ -1,4 +1,11 @@
-eeSmart - Changelog
+---
+layout: default
+title: Changelog eeSmart
+lang: fr_FR
+pluginId: eeSmart
+---
+
+Changelog
 ===
 
 - Création du plugin
