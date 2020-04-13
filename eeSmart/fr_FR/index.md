@@ -1,3 +1,10 @@
+---
+layout: default
+title: Documentation eeSmart
+lang: fr_FR
+pluginId: eeSmart
+---
+
 Présentation 
 ===
 
