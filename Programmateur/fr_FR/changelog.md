@@ -1,3 +1,10 @@
+---
+layout: default
+title: Changelog Programmateur
+lang: fr_FR
+pluginId: Programmateur
+---
+
 Programmateur - Changelog
 ===
 
