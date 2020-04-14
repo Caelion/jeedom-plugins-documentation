@@ -1,5 +1,5 @@
 ---
-layout: pluginlist
+layout: default
 title: Liste des plugins
 lang: fr_FR
 ---
