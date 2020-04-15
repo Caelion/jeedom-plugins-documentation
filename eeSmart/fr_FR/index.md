@@ -6,7 +6,7 @@ pluginId: eeSmart
 ---
 
 <div id="title">
-[Plugin {{page.pluginId}}]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}})
+<a href="../../../{{site.baseurl}}/{{page.pluginId}}/{{page.lang}}">Plugin {{page.pluginId}}</a>
 </div>
 
 Présentation
