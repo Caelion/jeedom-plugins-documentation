@@ -5,7 +5,9 @@ lang: fr_FR
 pluginId: eeSmart
 ---
 
-# [Plugin {{page.pluginId}}]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}})
+<div id="title">
+[Plugin {{page.pluginId}}]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}})
+</div>
 
 Présentation
 ===
