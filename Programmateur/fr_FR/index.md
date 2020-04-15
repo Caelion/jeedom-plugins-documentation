@@ -44,3 +44,7 @@ A chaque mise à jour d'un des paramètres du plugin au niveau du widget :
 A l'exécution de l'action On :
 - L'ensemble des futures programmations de l'action Off est supprimée.
 - Une nouvelle analyse est réalisée avec éventuellement la programmation de l'action Off sur la base des informations renseignées au moment de l'action On.
+
+Changelog
+===
+[Lien vers le changelog]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}}/changelog)
