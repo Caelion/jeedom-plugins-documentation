@@ -5,14 +5,16 @@ lang: fr_FR
 pluginId: Programmateur
 ---
 
+<div id="title">
+<a href="../../../{{site.baseurl}}/{{page.pluginId}}/{{page.lang}}">Plugin {{page.pluginId}}</a>
+</div>
+
 Présentation 
 ===
-
 Plugin permettant d'ajouter un programmateur pour une commande.
 
 Configuration
 ===
-
 Aucun paramètre au niveau du plugin.
 
 Une fois le plugin installé, vous pouvez ajouter directement un équipement dans le menu habituel.
@@ -26,7 +28,6 @@ Le paramétrage est le suivant :
 
 Utilisation
 ===
-
 Une fois les informations renseignées, vous pouverez directement aller sur le dashboard pour configurer le plugin.
 Il présente :
 - un bouton pour l'actif / le désactiver
@@ -36,7 +37,6 @@ Il présente :
 
 Fonctionnement
 ===
-
 A chaque mise à jour d'un des paramètres du plugin au niveau du widget :
 - L'ensemble des futures programmations de l'action On est supprimée.
 - Une nouvelle analyse est réalisée avec éventuellement la programmation de l'action On.
