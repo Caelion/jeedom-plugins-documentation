@@ -21,3 +21,4 @@ Changelog
   - Ajout possibilité d'une durée négative
   - Ajout possibilité action non répétée
   - Ajout comptabilité avec une variable pour l'information sur les jours fériés
+  - Modification du widget durée pour ajouter des boutons pour les modifications importantes (par tranche de 60min)
