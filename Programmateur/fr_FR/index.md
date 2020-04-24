@@ -12,7 +12,8 @@ pluginId: Programmateur
 Présentation 
 ===
 Plugin permettant d'ajouter un programmateur pour une commande.
-![1](../images/1.PNG)
+
+![1](../images/1.png)
 
 Configuration
 ===
@@ -20,7 +21,8 @@ Aucun paramètre au niveau du plugin.
 
 Une fois le plugin installé, vous pouvez ajouter directement un équipement dans le menu habituel.
 
-![2](../images/2.PNG)
+![2](../images/2.png)
+
 Le paramétrage est le suivant :
 - Spécification de la commande à exécuter à l'heure du déclenchement.
 - Optionnel : Spécification la commande à exécuter à l'heure du déclenchement + X minutes.
