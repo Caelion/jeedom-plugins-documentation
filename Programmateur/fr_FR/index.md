@@ -35,7 +35,7 @@ Utilisation
 ===
 Une fois les informations renseignées, vous pouverez directement aller sur le dashboard pour configurer le plugin.
 Il présente :
-- un bouton pour l'activer / le désactiver
+- un bouton pour activer / désactiver le programmateur (l'équipement reste actif dans Jeedom)
 - une case à cocher par jour (L/Ma/Me/J/V/S/D)
 - des boutons +/- pour régler l'heure et les minutes du déclenchement.
 - des boutons +/- pour régler la durée en minutes avant l'exécutioner de la seconde commande.
