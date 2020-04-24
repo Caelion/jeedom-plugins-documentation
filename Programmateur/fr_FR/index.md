@@ -40,7 +40,7 @@ Il présente :
 - des boutons +/- pour régler l'heure et les minutes du déclenchement.
 - des boutons +/- pour régler la durée en minutes avant l'exécutioner de la seconde commande.
 Notez que pour ce dernier, des options sont disponibles dans le paramétrage optionnel du widget associé :
-  - step : par défaut renseigné à 10 : il s'agit du nombre de minutes desquelles sera décrémenter / incrémenter la durée de fonctionnement.
+  - step : par défaut renseigné à 10 : il s'agit du nombre de minutes duquelle sera décrémenté / incrémenté la durée de fonctionnement.
   - big_change : par défaut renseigné à Oui : permet l'affichage de boutons +/- complémentaires permettant de décrémenter / incrémenter par tranche de 60min la durée de fonctionnement.
 
 Fonctionnement
