@@ -35,7 +35,7 @@ Utilisation
 ===
 Une fois les informations renseignées, vous pouverez directement aller sur le dashboard pour configurer le plugin.
 Il présente :
-- un bouton pour l'actif / le désactiver
+- un bouton pour l'activer / le désactiver
 - une case à cocher par jour (L/M/M/J/V/S/D)
 - des boutons +/- pour régler l'heure et les minutes du déclenchement.
 - des boutons +/- pour régler la durée en minutes avant l'exécutioner de la seconde commande.
