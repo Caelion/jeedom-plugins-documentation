@@ -36,7 +36,7 @@ Utilisation
 Une fois les informations renseignées, vous pouverez directement aller sur le dashboard pour configurer le plugin.
 Il présente :
 - un bouton pour l'activer / le désactiver
-- une case à cocher par jour (L/M/M/J/V/S/D)
+- une case à cocher par jour (L/Ma/Me/J/V/S/D)
 - des boutons +/- pour régler l'heure et les minutes du déclenchement.
 - des boutons +/- pour régler la durée en minutes avant l'exécutioner de la seconde commande.
 Notez que pour ce dernier, des options sont disponibles dans le paramétrage optionnel du widget associé :
