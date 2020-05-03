@@ -17,7 +17,7 @@ Changelog
 - 10/04/2020 : Modification d'informations en mode DEBUG
 - 13/04/2020 : Relocalisation de la documentation du plugin
 - 26/04/2020 : Correction d'une erreur sur les crons en cas d'existence de plusieurs programmateurs
-- 24/04/2020 : /!\ Refonte du moteur de calcul du plugin : vous devrez refaire le paramètre de l'équipement (les commandes ne changent pas donc les éventuelles liens avec d'autres équipements restent opérationnels)
+- 03/05/2020 (Beta 24/04/2020) : /!\ Refonte du moteur de calcul du plugin : vous devrez refaire le paramètre de l'équipement (les commandes ne changent pas donc les éventuelles liens avec d'autres équipements restent opérationnels)
   - Ajout comptabilité avec les scénarios pour les actions 1 et 2
   - Ajout possibilité d'une durée négative
   - Ajout possibilité action non répétée
