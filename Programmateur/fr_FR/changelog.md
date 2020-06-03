@@ -23,7 +23,8 @@ Changelog
   - Ajout possibilité action non répétée
   - Ajout comptabilité avec une variable pour l'information sur les jours fériés
   - Modification du widget durée pour ajouter des boutons pour les modifications importantes (par tranche de 60min)
-- 02/06/2020 : Correction d'un bug sur la désactivation / activation inopinée de l'information lundi
+- 02/06/2020 : Correction d'un bug sur la désactivation / activation inopinée de l'information lundi (ne corrige que les nouveaux équipements. Une correction manuelle peut être de supprimer l'information lundi puis de sauvegarder 2 fois l'équipement).
+- 03/06/2020 : Correction de la liaison avec les widgets du plugin (ne corrige que sur les nouveaux équipements). Avant cette correction, si vous allez dans Affichage de la commande, "Defaut" apparait alors que la commande peut tout de même utiliser l'un des widgets du plugin (Toggle/Day/Time/Delay).
 
 ## BETA
 - Néant
