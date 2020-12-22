@@ -34,6 +34,7 @@ Changelog
 - 22/12/2020 :
   - Refonte des widget Mobile : Toggle Jour / Heure / Durée
   - Refonte des widget Mobile : Toggle Jour / Heure
+  - Ajout d'une option d'exécution d'action de fin sur mise sur off du programmateur concerné
 
 
 ## BETA en cours
