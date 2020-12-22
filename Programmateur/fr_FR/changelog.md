@@ -29,8 +29,8 @@ Changelog
   - Nouvelle présentation de la liste des objets
   - Ajout du tag "Compatibilité V4"
   - Ajout d'une fonction Marche forcée pour la durée spécifiée.
-     En cas de durée négative : durée en valeur positive et inversion des actions 1 et 2
-     Le programmateur n'a pas besoin d'être sur On pour que la marche forcée fonctionnement. Par contre, l'équipement doit être actif.
+     - En cas de durée négative : durée en valeur positive et inversion des actions 1 et 2
+     - Le programmateur n'a pas besoin d'être sur On pour que la marche forcée fonctionnement. Par contre, l'équipement doit être actif.
 
 ## BETA en cours
 - Néant
