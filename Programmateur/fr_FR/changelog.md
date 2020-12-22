@@ -31,6 +31,10 @@ Changelog
   - Ajout d'une fonction Marche forcée pour la durée spécifiée.
      - En cas de durée négative : durée en valeur positive et inversion des actions 1 et 2
      - Le programmateur n'a pas besoin d'être sur On pour que la marche forcée fonctionne. Par contre, l'équipement doit être actif.
+- 22/12/2020 :
+  - Refonte des widget Mobile : Toggle Jour / Heure / Durée
+  - Refonte des widget Mobile : Toggle Jour / Heure
+
 
 ## BETA en cours
 - Néant
