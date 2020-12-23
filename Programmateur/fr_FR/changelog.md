@@ -33,7 +33,7 @@ Changelog
      - Le programmateur n'a pas besoin d'être sur On pour que la marche forcée fonctionne. Par contre, l'équipement doit être actif.
 - 22/12/2020 :
   - Refonte des widget Mobile : Toggle Jour / Heure / Durée
-  - Refonte des widget Mobile : Toggle Jour / Heure
+  - Refonte des widget Dashboard : Toggle Jour / Heure
   - Ajout d'une option d'exécution d'action de fin sur mise sur off du programmateur concerné
 
 
