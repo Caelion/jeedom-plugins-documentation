@@ -30,6 +30,7 @@ Le paramétrage est le suivant :
 - Optionnel : Exlusion des jours fériés : pour se faire, cocher la case et spécifier une variable ou une information binaire avertissant du jour férié : 1 = jour férié / 0 = jour standard.
 - Optionnel : Exclusion des jours sur un mode particulier : pour se faire, cocher la case et spécifier une information string de mode ainsi que le nom du mode à exclure.
 - Optionnel : Désactivation de la répétition : si vous cochez la case, la programmation ne se déclenchera qu'une seule fois. Elle se rééxécutera ensuite uniquement s'il y a une modification sur l'équipement (choix des jours / modification de l'heure ou de la durée).
+- Optionnel : Exécution de l'action 2 immédiatement lorsque l'équipement est mis sur off.
 
 Utilisation
 ===
