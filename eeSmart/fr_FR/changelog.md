@@ -16,3 +16,4 @@ Changelog
 - Ajout de la documentation / changelog au format Jeedom
 - 17/03/2020 : Refonte complète du système d'appel à l'API eeSmart du plugin
 - 13/04/2020 : Relocalisation de la documentation du plugin
+- 24/04/2021 : Changement du serveur web API : consospoy -> d2lapi
