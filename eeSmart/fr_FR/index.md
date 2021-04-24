@@ -13,9 +13,13 @@ Présentation
 ===
 
 Plugin développé en partenariat avec la société eeSmart qui distribue les produits D2L.
-Leur produit est un module ERL à brancher sur le compteur Linky. Ce module envoi de manière régulière sur un serveur donné (pour le moment : suivi.consospy) les données du compteur Linky.
+Leur produit est un module ERL à brancher sur le compteur Linky. Ce module envoi de manière régulière sur un serveur donné (pour le moment : d2l.sicame.io) les données du compteur Linky.
 
-Ce plugin permet, via l’API qu’eeSmart met à disposition, de récupérer les données présentes sur le site suivi.consospy afin de les suivre dans Jeedom.
+Ce plugin permet, via l’API qu’eeSmart met à disposition, de récupérer les données présentes sur le site d2l.sicame.io afin de les suivre dans Jeedom.
+
+Note : le site d2l.sicame.io remplace dorénavant l'ancien site consospyapi.sicame.io
+
+Note 2 : Manuel du module D2L : http://eesmart.fr/wp-content/uploads/eeSmart-D2L-Notice-dinstallation.pdf
 
 Configuration
 ===
