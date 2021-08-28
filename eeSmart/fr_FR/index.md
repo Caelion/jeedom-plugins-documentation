@@ -27,7 +27,7 @@ Une fois le plugin installé, vous devez :
 - Aller dans la page "Configuration" du plugin et renseigner votre identifiant et votre mot de passe eeSmart
 - Sauvegarder
 - Cliquer sur le bouton "Connexion"
-Si les informations saisies sont correctes, un message vous invitant à raffraichir la page apparaît.
+Si les informations saisies sont correctes, un message vous invitant à rafraîchir la page apparaît.
 
 Vous pouvez ensuite ajouter un équipement dans le menu habituel.
 Votre seule action sera alors de sélectionner le module correspondant à celui que vous voulez analyser.
@@ -37,8 +37,8 @@ L'équipement alors créé se mettra en forme au premier rafraichissement (cron 
 
 Fonctionnement
 ===
-- Un cron quotidien est  présent pour raffraichir la clé API
-- Un cron à 5 minutes est utilsé pour mettre à jour les informations du compteur.
+- Un cron quotidien est  présent pour rafraîchir la clé API
+- Un cron à 5 minutes est utilisé pour mettre à jour les informations du compteur.
 
 Info
 ===
