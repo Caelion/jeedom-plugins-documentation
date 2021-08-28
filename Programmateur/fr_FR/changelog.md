@@ -35,7 +35,8 @@ Changelog
   - Refonte des widget Mobile : Toggle Jour / Heure / Durée
   - Refonte des widget Dashboard : Toggle Jour / Heure
   - Ajout d'une option d'exécution d'action de fin sur mise sur off du programmateur concerné
-
+- 28/08/2021 :
+  - Ajout d'un paramètre "tag" lorsque l'action est un scénario (merci @Henribi pour le développement)
 
 ## BETA en cours
 - Néant
