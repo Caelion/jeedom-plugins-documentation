@@ -24,24 +24,24 @@ Une fois le plugin installé, vous pouvez ajouter directement un équipement dan
 ![2](../images/2.png)
 
 Le paramétrage est le suivant :
-- Spécification de l'action 1 à exécuter : d'abord dans le menu déroulant : commande ou scénario puis séléction de la commande ou du scénario dans la case qui apparaît alors.
-- Optionnel : Spécification l'action 2 à exécuter : d'abord dans le menu déroulant : commande ou scénario puis séléction de la commande ou du scénario dans la case qui apparaît alors.
+- Spécification de l'action 1 à exécuter : d'abord dans le menu déroulant : commande ou scénario puis sélection de la commande ou du scénario dans la case qui apparaît alors.
+- Optionnel : Spécification l'action 2 à exécuter : d'abord dans le menu déroulant : commande ou scénario puis sélection de la commande ou du scénario dans la case qui apparaît alors.
 *Note : si le timer est à 0 minute : la commande ne sera pas exécutée*
-- Optionnel : Exlusion des jours fériés : pour se faire, cocher la case et spécifier une variable ou une information binaire avertissant du jour férié : 1 = jour férié / 0 = jour standard.
+- Optionnel : Exclusion des jours fériés : pour se faire, cocher la case et spécifier une variable ou une information binaire avertissant du jour férié : 1 = jour férié / 0 = jour standard.
 - Optionnel : Exclusion des jours sur un mode particulier : pour se faire, cocher la case et spécifier une information string de mode ainsi que le nom du mode à exclure.
-- Optionnel : Désactivation de la répétition : si vous cochez la case, la programmation ne se déclenchera qu'une seule fois. Elle se rééxécutera ensuite uniquement s'il y a une modification sur l'équipement (choix des jours / modification de l'heure ou de la durée).
+- Optionnel : Désactivation de la répétition : si vous cochez la case, la programmation ne se déclenchera qu'une seule fois. Elle se réexécutera ensuite uniquement s'il y a une modification sur l'équipement (choix des jours / modification de l'heure ou de la durée).
 - Optionnel : Exécution de l'action 2 immédiatement lorsque l'équipement est mis sur off.
 
 Utilisation
 ===
-Une fois les informations renseignées, vous pouverez directement aller sur le dashboard pour configurer le plugin.
+Une fois les informations renseignées, vous pouvez directement aller sur le dashboard pour configurer le plugin.
 Il présente :
 - un bouton pour activer / désactiver le programmateur (l'équipement reste actif dans Jeedom)
 - une case à cocher par jour (L/Ma/Me/J/V/S/D)
 - des boutons +/- pour régler l'heure et les minutes du déclenchement.
-- des boutons +/- pour régler la durée en minutes avant l'exécutioner de la seconde commande.
+- des boutons +/- pour régler la durée en minutes avant l'exécution de la seconde commande.
 Notez que pour ce dernier, des options sont disponibles dans le paramétrage optionnel du widget associé :
-  - step : par défaut renseigné à 10 : il s'agit du nombre de minutes duquelle sera décrémenté / incrémenté la durée de fonctionnement.
+  - step : par défaut renseigné à 10 : il s'agit du nombre de minutes duquel sera décrémenté / incrémenté la durée de fonctionnement.
   - big_change : par défaut renseigné à Oui : permet l'affichage de boutons +/- complémentaires permettant de décrémenter / incrémenter par tranche de 60min la durée de fonctionnement.
 
 Fonctionnement
