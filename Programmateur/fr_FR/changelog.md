@@ -44,3 +44,4 @@ Changelog
     - Toggle > Core
     - Delay & Time : mise à jour suite évolution du core
   - Ajout vue tableau dans la page "mes programmateurs"
+  - Suppression branche V3
