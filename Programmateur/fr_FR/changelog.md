@@ -39,4 +39,8 @@ Changelog
   - Ajout d'un paramètre "tag" lorsque l'action est un scénario (merci @Henribi pour le développement)
 
 ## BETA en cours
-- Néant
+- 31/05/2024 :
+  - Modification widget :
+    - Toggle > Core
+    - Delay & Time : mise à jour suite évolution du core
+  - Ajout vue tableau dans la page "mes programmateurs"
