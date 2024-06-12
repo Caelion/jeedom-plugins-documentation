@@ -37,11 +37,13 @@ Changelog
   - Ajout d'une option d'exécution d'action de fin sur mise sur off du programmateur concerné
 - 28/08/2021 :
   - Ajout d'un paramètre "tag" lorsque l'action est un scénario (merci @Henribi pour le développement)
-
-## BETA en cours
 - 31/05/2024 :
   - Modification widget :
     - Toggle > Core
     - Delay & Time : mise à jour suite évolution du core
   - Ajout vue tableau dans la page "mes programmateurs"
   - Suppression branche V3
+Note : pour vos équipements actuels, vous pouvez appliquer le même correctif en faisant :
+Edition du widget des commandes on et off en desktop et mobile : choisir core>binaryswitch et cocher "retour à la ligne après".
+
+## BETA en cours
