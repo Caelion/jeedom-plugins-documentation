@@ -43,7 +43,9 @@ Changelog
     - Delay & Time : mise à jour suite évolution du core
   - Ajout vue tableau dans la page "mes programmateurs"
   - Suppression branche V3
+
 Note : pour vos équipements actuels, vous pouvez appliquer le même correctif en faisant :
+
 Edition du widget des commandes on et off en desktop et mobile : choisir core>binaryswitch et cocher "retour à la ligne après".
 - 03/10/2024 :
   - Correction non static function (merci Henribi/Fabrice)
