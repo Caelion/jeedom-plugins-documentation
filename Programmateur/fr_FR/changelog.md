@@ -51,3 +51,9 @@ Edition du widget des commandes on et off en desktop et mobile : choisir core>bi
   - Correction non static function (merci Henribi/Fabrice)
 
 ## BETA en cours
+- 23/05/2025 :
+  - Optimisation du code :
+    - Factorisation des jours
+    - Tests de l'existence des cmd
+    - Tests de l'existence des scenarios
+    - Tests de l'existence des eqLogic
