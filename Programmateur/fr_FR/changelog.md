@@ -9,7 +9,7 @@ pluginId: Programmateur
 <a href="../../../{{site.baseurl}}/{{page.pluginId}}/{{page.lang}}">Plugin {{page.pluginId}}</a>
 </div>
 
-Changelog
+Changelog Stable
 ===
 - Création du plugin
 - Ajout de la documentation / changelog au format Jeedom
@@ -50,7 +50,8 @@ Edition du widget des commandes on et off en desktop et mobile : choisir core>bi
 - 03/10/2024 :
   - Correction non static function (merci Henribi/Fabrice)
 
-## BETA en cours
+Changelog Beta
+===
 - 23/05/2025 :
   - Optimisation du code :
     - Factorisation des jours
