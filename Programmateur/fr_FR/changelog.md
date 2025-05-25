@@ -58,3 +58,5 @@ Changelog Beta
     - Tests de l'existence des cmd
     - Tests de l'existence des scenarios
     - Tests de l'existence des eqLogic
+- 25/05/2025 :
+  - Correction du Widget Time : gestion des minutes sur les heures < 10h lors du passage de 59 à 0 ou vice versa
