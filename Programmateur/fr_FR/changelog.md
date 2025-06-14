@@ -49,16 +49,18 @@ Note : pour vos équipements actuels, vous pouvez appliquer le même correctif e
 Edition du widget des commandes on et off en desktop et mobile : choisir core>binaryswitch et cocher "retour à la ligne après".
 - 03/10/2024 :
   - Correction non static function (merci Henribi/Fabrice)
-
-Changelog Beta
-===
-- 23/05/2025 :
+- 14/06/2025 :
   - Optimisation du code :
     - Factorisation des jours
     - Tests de l'existence des cmd
     - Tests de l'existence des scenarios
     - Tests de l'existence des eqLogic
-- 25/05/2025 :
   - Correction du Widget Time : gestion des minutes sur les heures < 10h lors du passage de 59 à 0 ou vice versa
-- 11/06/2025 :
-  - Correction sur fonction dépréciée (jeedom.eqLogic.buildSelectCmd à la place de jeedom.eqLogic.builSelectCmd)
+  - Correction sur fonction dépréciée en 4.5 (jeedom.eqLogic.buildSelectCmd à la place de jeedom.eqLogic.builSelectCmd)
+
+Changelog Beta
+===
+(passage en stable 7 jours après le dernier message sur le community ou sur le repo)
+
+- 14/06/2025 :
+  - 
