@@ -17,4 +17,4 @@ Changelog
 - 17/03/2020 : Refonte complète du système d'appel à l'API eeSmart du plugin
 - 13/04/2020 : Relocalisation de la documentation du plugin
 - 24/04/2021 : Changement du serveur web API : consospy -> d2lapi
-- 27/03/2026 : Correctif pour PHP8
+- 27/03/2026 : Correctif pour PHP8 + Correction d'erreur d'appel API sur la liste_modules, last_indexes et last_currents
